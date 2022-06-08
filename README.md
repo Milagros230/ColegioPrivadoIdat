@@ -1,1 +1,1 @@
-# ColegioPrivadoIdat
+# ColegioPrivadoPrueba
